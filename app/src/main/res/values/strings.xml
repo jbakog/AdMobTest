@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdMobTest</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="bannerAd_button">Test Banner Ad</string>
+    <string name="interstitialAd_button">Interstitial Ad</string>
+    <string name="load_interstitial">Load Interstitial</string>
+    <string name="interstitial_not_ready">Interstitial Not ready</string>
+    <string name="interstitial_loading">Loading Interstitial</string>
+    <string name="interstitial_show">Show Interstitial</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
